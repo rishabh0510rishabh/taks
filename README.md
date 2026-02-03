@@ -1,4 +1,4 @@
-# Academic Python Projects Submission
+# Python Projects Submission
 
 This repository contains my submission for the academic Python development tasks. It consists of three distinct projects as per the requirements.
 
